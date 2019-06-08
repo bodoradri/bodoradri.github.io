@@ -1,0 +1,65 @@
+body
+{
+    margin: 0;
+}
+
+.header-box
+{
+    position: relative;
+
+    height: 100px;
+
+    background-color: black;
+}
+
+.logo
+{
+    font-family: 'Halant', serif;
+    font-size: 40px;
+
+    position: absolute;
+    bottom: -22px;
+    left: 50px;
+
+    margin: 0;
+
+    text-transform: uppercase;
+
+    color: white;
+}
+
+.menu
+{
+    font-family: 'Halant', serif;
+    font-size: 20px;
+
+    position: absolute;
+    right: 50px;
+    bottom: -11px;
+
+    margin: 0;
+
+    color: white;
+}
+
+.page
+{
+    padding-left: 35px;
+}
+
+.page-title
+{
+    font-family: 'Halant', serif;
+    font-size: 20px;
+
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 15px;
+
+    text-transform: capitalize;
+}
+
+.item
+{
+    margin: 15px;
+}
