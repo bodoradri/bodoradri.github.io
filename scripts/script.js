@@ -5,7 +5,7 @@ $(document).ready(function() {
       id: 'artifact1',
       title: 'Balance',
       year: '2016',
-      author: 'Darab Dénes',
+      author: 'Dénes Darab',
       image: './images/darabdenesbalance.jpg'
     },
 
@@ -13,32 +13,32 @@ $(document).ready(function() {
       id: 'artifact2',
       title: 'Just the tip',
       year: '2016',
-      author: 'Darab Dénes',
+      author: 'Dénes Darab',
       image: './images/darabdenesjustthetip.jpg'
     },
 
     {
       id: 'artifact3',
-      title: 'Balance',
-      year: '2016',
-      author: 'Darab Dénes',
-      image: './images/darabdenesbalancelandscape.jpg'
+      title: 'Oscillation 002',
+      year: '2017',
+      author: 'Dorota Jedrusik',
+      image: './images/dorotajedrusikoscillation002.jpg'
     },
 
     {
       id: 'artifact4',
-      title: 'Balance',
-      year: '2016',
-      author: 'Darab Dénes',
-      image: './images/darabdenesbalancelandscape.jpg'
+      title: 'Zebra Heads',
+      year: '1932-1942',
+      author: 'Victor Vasarely',
+      image: './images/victorvasarelyzebraheads.jpg'
     },
 
     {
       id: 'artifact5',
-      title: 'Balance',
-      year: '2016',
-      author: 'Darab Dénes',
-      image: './images/darabdenesbalancelandscape.jpg'
+      title: 'Churchgate Station, Bombay',
+      year: '1995',
+      author: 'Sebastiao Salgado',
+      image: './images/sebastiaosalgadochurchgatestation.png'
     },
   ];
 
