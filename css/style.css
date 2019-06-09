@@ -122,4 +122,21 @@ body
     bottom: 0;
 
     margin: 5px;
+
+    cursor: pointer;
+}
+
+.filled
+{
+    content: url('../images/starfilled.png');
+}
+
+.outline
+{
+    content: url('../images/staroutline.png');
+}
+
+.faded
+{
+    opacity: .15;
 }
