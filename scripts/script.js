@@ -51,7 +51,9 @@ $(document).ready(function() {
         $('#' + artifacts[i].id + '-star').toggleClass('filled outline');
         $('#' + artifacts[i].id).find('.fadeable').toggleClass('faded');
         setTimeout(function() {
-          $('#' + artifacts[i].id).remove();
+          if ($('#' + artifacts[i].id).find('.fadeable').hasClass('faded')) {
+            $('#' + artifacts[i].id).remove();
+          }
         }, 4000);
       });
     }
